@@ -8,7 +8,7 @@ This is the repository of all the source code that we have used in the project w
 #### For chatbot, download dataset - Cornell Movie-Dialogs Corpus
 ```http://www.cs.cornell.edu/~cristian/Cornell_Movie-Dialogs_Corpus.html```
 
-### Train your model using Google Colab
+### Run the notebooks using Google Colab
 #### Why use google colab?
 1. It allows you to execute a runtime instance using google's GPU (which is a powerful Nvidia Tesla K80) coupled with 12GB Ram
 2. It is free of cost
