@@ -4,6 +4,14 @@ This is the repository of all the source code that we have used in the project w
 1. GOT Walkthrough - This is the project where we learn about NLP using the dataset of character dialogues from Game of Thrones. Topic Modelling, Sentiment Analysis and Text Generation are covered here.
 2. Chatbot - This is an attempt at building a ChatBot using Seq2Seq model. This model is based on 2 [LSTM](https://en.wikipedia.org/wiki/Long_short-term_memory) Layers. Seq2Seq mainly consists of 2 components i.e Encoder and Decoder, hence sometimes it is also called Encoder-Decoder network.
 
+| Project Walkthrough  | Slides Link | Recording Link |
+| -------------------- | ------------| ---------------|
+| Game of Thrones      |             |                |
+| Chatbot              |             |                |
+| Word Embeddings      |             | https://bit.ly/DLQRecNLP2               |
+| Sarcasm Detection    |             | https://bit.ly/DLQRecNLP2               |
+
+
 
 #### For chatbot, download dataset - Cornell Movie-Dialogs Corpus
 ```http://www.cs.cornell.edu/~cristian/Cornell_Movie-Dialogs_Corpus.html```
